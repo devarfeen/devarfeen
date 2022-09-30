@@ -5,13 +5,12 @@
 
 - 📫 How to reach me **devarfeen@gmail.com**
 
-- 📄 Know about my experiences on [https://pk.linkedin.com/in/arfeenarif](https://pk.linkedin.com/in/arfeenarif)
+- 📄 Know about my experiences at [https://pk.linkedin.com/in/arfeenarif](https://pk.linkedin.com/in/arfeenarif)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://twitter.com/devarfeen" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="devarfeen" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/arfeenarif" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="arfeenarif" height="30" width="40" /></a>
-<a href="https://www.youtube.com/c/uchxo_5evl6exzoajqrare2w" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="uchxo_5evl6exzoajqrare2w" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
